@@ -1,2 +1,2 @@
 # Hacktoberfest-2020
-Open Repository for Cloud Developers to add files of any topic.
+Open Repository for Developers to add files of any topic.
